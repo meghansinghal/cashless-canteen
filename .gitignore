@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit / logs
+.streamlit/
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# MySQL
+*.sql.gz
