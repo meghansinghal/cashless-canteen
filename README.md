@@ -1,6 +1,6 @@
-**Cashless Canteen – DBMS Mini Project**
+****Cashless Canteen – DBMS Mini Project****
 
-**Team Members:** Meghan Singhal, Mungara Shreya
+**Team Members:** Meghan Singhal, Mungara Shreya <br>
 **Tech Stack:** Streamlit (Python), MySQL, MySQL Connector, SQL Views + Procedures + Triggers
 
 A complete cashless canteen management system where students can:
